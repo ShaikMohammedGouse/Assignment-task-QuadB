@@ -1,0 +1,12 @@
+body{
+  background-color: #fff8f8;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  flex-wrap: wrap;
+}
